@@ -57,6 +57,7 @@
                         <a href="https://classroom.google.com" target="_blank" class="appbutton"><button type="button" class="btn btn-gc">Google <br/>Classroom</button></a>
                         <a href="https://mail.google.com" target="_blank" class="appbutton"><button type="button" class="btn btn-gm">Gmail</button></a>
                         <a href="https://baxterguidance.weebly.com" target="_blank" class="appbutton"><button type="button" class="btn btn-warning" style="height:4em">Guidance</button></a>
+                        <a href="http://baxterlearningcommons.weebly.com/" target="_blank" class="appbutton"><button type="button" class="btn btn-warning" style="height:4em">Baxter Learning Commons</button></a>
                 </div>
                 </div>
               </div>
