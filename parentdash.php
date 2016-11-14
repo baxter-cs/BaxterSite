@@ -59,7 +59,7 @@
                         <a href="gallery" target="_blank" class="appbutton"><button type="button" class="btn btn-gm">Gallery</button></a>
 
 
-                        <a href="calendar" target="_blank" class="appbutton"><button type="button" class="btn btn-gm">Calendar</button></a><                           
+                        <a href="calendar" target="_blank" class="appbutton"><button type="button" class="btn btn-gm">Calendar</button></a>                           
                         <div class="appbutton">
                         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                         <input type="hidden" name="cmd" value="_s-xclick">
