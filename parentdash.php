@@ -57,6 +57,9 @@
                         <a href="https://maine.infinitecampus.org/campus/baxter.jsp" target="_blank" class="appbutton"><button type="button" class="btn btn-ic">Infinite <br/>Campus</button></a>
                         <a href="http://www.amazon.com/gp/registry/wishlist/ref=sr_1_1_acs_wl_1?cid=A1AEN6Y0B2T438&ie=UTF8&qid=1462197854&sr=8-1-acs" target="_blank" class="appbutton"><button type="button" class="btn btn-gc">Wishlist</button></a>
                         <a href="gallery" target="_blank" class="appbutton"><button type="button" class="btn btn-gm">Gallery</button></a>
+
+
+                        <a href="calendar" target="_blank" class="appbutton"><button type="button" class="btn btn-gm">Calendar</button></a><                           
                         <div class="appbutton">
                         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                         <input type="hidden" name="cmd" value="_s-xclick">
